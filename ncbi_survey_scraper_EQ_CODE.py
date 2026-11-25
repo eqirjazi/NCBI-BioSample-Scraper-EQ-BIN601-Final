@@ -2,9 +2,8 @@
 """
 BIN601 Final Project: American Gut NCBI BioSample Survey Scraper
 
-Required packages:
-    pip install requests lxml pandas matplotlib
 """
+
 # Import the libraries needed to run the scraper
 import argparse  # Allows the user to enter options when running the script
 import random    # Randomly selects BioSample IDs
