@@ -3,7 +3,7 @@ EQ BIN601 Final Project
 
 ---
 ## Purpose:
-This is a Python script that aimed to scrape American Gut Project survey responses from NCBI BioSample records. The goal was to eventually have a tool for scraping these responses for further analysis such as saving civ files with specific information and creating plots from them. 
+This is a Python script that aimed to scrape American Gut Project survey responses from NCBI BioSample records. The goal was to eventually have a tool for scraping these responses for further analysis such as saving csv files with specific information and creating plots from them. 
 
 ---
 ## Description:
